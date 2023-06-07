@@ -15,8 +15,8 @@
   If you are in the need of searching for a book on the internet, well consider your search finally over! Not only can you search for your favorite titles, you can create an account and save them directly on your browser!
 
   ## Installation
+  Heroku URL: https://gobooglesearch.herokuapp.com/
   
-
   ## Usage
   If I were a high school english student I would find it very useful in helping to write book reports and also discover more to read when you're forced to in class.
 
